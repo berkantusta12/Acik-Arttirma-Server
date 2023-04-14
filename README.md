@@ -1,4 +1,4 @@
-# KARTACA CASE
+# KARTACA CASE 
 
 ## 🛠  Technologies and tools
 
